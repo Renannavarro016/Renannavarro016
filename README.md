@@ -37,7 +37,7 @@ Meu nome é Renan Navarro, tenho 20 anos e sou natural do interior de São Paulo
 
 ---
 
-### 🤖> Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
