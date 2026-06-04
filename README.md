@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Meu nome é Renan Navarro, tenho 20 anos e sou natural do interior de São Paulo. Já obtive uma certa experiência na área de informática atuando em uma empresa, e com isso obtive o conhecimento em Montagem de Hardware de computador. Também tenho experiência com HTML, CSS e JavaScript. Atualmente, estou estudando Análise e Desenvolvimento de Sistemas e Programação, e sigo firme nesta jornada! Sou apaixonado por tecnologia e busco aprender e aprofundar cada vez mais sobre esta área de tecnologia que é muito vasta e interessante.
+Meu nome é Renan Navarro, tenho 20 anos e sou natural do interior de São Paulo. Obtenho experiência na área de informática atuando em uma empresa, e com isso obtive o conhecimento em Montagem de Hardware de computador. Também tenho experiência com HTML, CSS e JavaScript. Atualmente, estou estudando Análise e Desenvolvimento de Sistemas e Programação, e sigo firme nesta jornada! Sou apaixonado por tecnologia e busco aprender e aprofundar cada vez mais sobre esta área de tecnologia que é muito vasta e interessante.
 
 <p align="left">
     <a href="https://www.youtube.com/@Renanzzin">
