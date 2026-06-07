@@ -39,6 +39,10 @@ Meu nome é Renan Navarro, tenho 20 anos e sou natural do interior de São Paulo
 
 ---
 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusAlvarez&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -84,6 +88,10 @@ Meu nome é Renan Navarro, tenho 20 anos e sou natural do interior de São Paulo
 
 <br>
 <br>
+
+### Studying in this moment:
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <br>
 
