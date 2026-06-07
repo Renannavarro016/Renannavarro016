@@ -100,6 +100,15 @@ Meu nome é Renan Navarro, tenho 20 anos e sou natural do interior de São Paulo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Github" 
+    title="Github"
+    width="25px" 
+    style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" 
+/>
+<img 
 
 <br>
 <br>
