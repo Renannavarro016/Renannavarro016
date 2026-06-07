@@ -88,9 +88,17 @@ Meu nome é Renan Navarro, tenho 20 anos e sou natural do interior de São Paulo
     align="left" 
     alt="Python" 
     title="Python"
-    width="25px" 
+    width="29px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Firebase" 
+    title="Firebase"
+    width="26px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" 
 />
 
 <br>
@@ -99,7 +107,7 @@ Meu nome é Renan Navarro, tenho 20 anos e sou natural do interior de São Paulo
 <br>
 <br>
 
-### No momento estou estudando:
+### No momento estou estudando
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
