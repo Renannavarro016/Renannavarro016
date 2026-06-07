@@ -6,6 +6,8 @@
 
 Meu nome é Renan Navarro, tenho 20 anos e sou natural do interior de São Paulo. Obtenho experiência na área de informática atuando em uma empresa, e com isso obtive o conhecimento em Montagem de Hardware de computador. Também tenho experiência com HTML, CSS e JavaScript. Atualmente, estou estudando Análise e Desenvolvimento de Sistemas e Programação, e sigo firme nesta jornada! Sou apaixonado por tecnologia e busco aprender e aprofundar cada vez mais sobre esta área de tecnologia que é muito vasta e interessante.
 
+<br>
+
 <p align="left">
     <a href="https://www.youtube.com/@Renanzzin">
         <img 
@@ -18,14 +20,14 @@ Meu nome é Renan Navarro, tenho 20 anos e sou natural do interior de São Paulo
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCfPCT6fWfjmhaZKS5Z4QKFQ?color=%23E1AD0e&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCfPCT6fWfjmhaZKS5Z4QKFQ?color=c7c6bf&logo=eye&logoColor=black&style=for-the-badge&labelColor=dbd9d0"
         />
     </a> 
     <a href="https://github.com/Renannavarro016?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Renannavarro016?color=55962c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Renannavarro016?color=%23E1AD0e&style=for-the-badge&labelColor=dbbe2a&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/Renannavarro016?tab=followers">
@@ -39,17 +41,22 @@ Meu nome é Renan Navarro, tenho 20 anos e sou natural do interior de São Paulo
 
 ---
 
+<br>
+<br>
+<br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusAlvarez&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Renannavarro016&bg_color=2f42ad&color=ffffff&line=ffffff&point=7682c4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<br>
+<br>
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -57,7 +64,7 @@ Meu nome é Renan Navarro, tenho 20 anos e sou natural do interior de São Paulo
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -65,7 +72,7 @@ Meu nome é Renan Navarro, tenho 20 anos e sou natural do interior de São Paulo
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -73,7 +80,7 @@ Meu nome é Renan Navarro, tenho 20 anos e sou natural do interior de São Paulo
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -81,7 +88,7 @@ Meu nome é Renan Navarro, tenho 20 anos e sou natural do interior de São Paulo
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="25px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -89,13 +96,16 @@ Meu nome é Renan Navarro, tenho 20 anos e sou natural do interior de São Paulo
 <br>
 <br>
 
-### Studying in this moment:
+<br>
+<br>
+
+### No momento estou estudando:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <br>
 
-### 📞 Contatos 
+### Contatos 
  
 <p align="left"> 
   <a href="https://www.instagram.com/renan_navarro15/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -103,4 +113,5 @@ Meu nome é Renan Navarro, tenho 20 anos e sou natural do interior de São Paulo
   <a href="https://www.linkedin.com/in/renan-lucas-navarro-1809a02b8/"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
+<br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=364fe0&height=120&section=footer"/>
