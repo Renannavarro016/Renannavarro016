@@ -94,3 +94,5 @@ Meu nome é Renan Navarro, tenho 20 anos e sou natural do interior de São Paulo
   <a href="https://discord.com/users/933565859539091516"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/renan-lucas-navarro-1809a02b8/"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=364fe0&height=120&section=footer"/>
