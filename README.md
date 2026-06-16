@@ -4,7 +4,7 @@
 
 **`Desenvolvedor Front-end`**
 
-## 👨‍💻 Sobre Mim
+👨‍💻 Sobre Mim
 
 Olá! Me chamo **Renan Navarro**, tenho 20 anos e sou do interior de São Paulo. Ao longo da minha trajetória adquiri experiência na área de informática, desenvolvendo conhecimentos em **montagem e manutenção de hardware de computadores**, o que fortaleceu ainda mais meu interesse por tecnologia.
 
